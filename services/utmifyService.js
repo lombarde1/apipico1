@@ -3,7 +3,7 @@ const axios = require('axios');
 
 class UtmifyService {
   constructor() {
-    this.apiToken = 'wMbsrwI05HNYZxUV3PkpRxfcO2Q2RzXOwzbK';
+    this.apiToken = 'JJ8gsKv0tG1WJV8rY76QMqKt9dVSXmMZJ9Jz';
     this.baseUrl = 'https://api.utmify.com.br/api-credentials/orders';
   }
 
